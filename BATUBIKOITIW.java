@@ -6,7 +6,7 @@ public class BATUBIKOITIW {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// ingurunea
-		int znb=0;
+		int znb=1;
 		int znb1=0;
 		int aku=0;
 		Scanner teklatua=new Scanner(System.in);
